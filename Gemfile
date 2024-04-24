@@ -29,6 +29,7 @@ gem "jbuilder"
 gem 'bootstrap', '~> 5.1'
 gem 'jquery-rails', '~> 4.4'
 gem "sassc-rails"
+gem 'prettier'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
